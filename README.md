@@ -20,17 +20,17 @@ This project is an ARM assembly program that serves as a simulator for a matchst
 - Run the program.
 
 ## Sample Run
--1 The program prompts: Please enter your name:.
--2 The user enters their name.
--3 The program prompts: How many MatchSticks (10-100)?:.
--4 The user enters a number between 10 and 100.
--5 The game begins, with the player and the computer taking turns to remove 1-7 matchsticks.
--6 The program displays messages indicating each move.
--7 The game continues until there are no matchsticks left.
--8 The program announces the winner (the player or the computer).
--9 After the game ends, the program asks if the user wants to play again.
--10 If the user chooses to play again, the game restarts from step 3; otherwise, the program ends.
--11 The program then proceeds to draw the specified number of lines on a simulated pixel screen..
+1. The program prompts: Please enter your name:.
+2. The user enters their name.
+3. The program prompts: How many MatchSticks (10-100)?:.
+4. The user enters a number between 10 and 100.
+5. The game begins, with the player and the computer taking turns to remove 1-7 matchsticks.
+6. The program displays messages indicating each move.
+7. The game continues until there are no matchsticks left.
+8. The program announces the winner (the player or the computer).
+9. After the game ends, the program asks if the user wants to play again.
+10. If the user chooses to play again, the game restarts from step 3; otherwise, the program ends.
+11. The program then proceeds to draw the specified number of lines on a simulated pixel screen.
 
 ## Code Overview
 
